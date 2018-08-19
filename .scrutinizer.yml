@@ -1,8 +1,0 @@
-build:
-    root_path: './'
-filter:
-    paths:
-        - src/
-    dependency_paths:
-        - vendor/
-
